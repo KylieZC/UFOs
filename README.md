@@ -3,13 +3,8 @@
 This project builds a dynamic webpage that helps Dana share her UFO's sighting information research. This webpage has an interactive search function to display a concise dashboard of sighting results based on an HTML file.
 
 **Tools:**
-Bootstraps
 
-JavaScripts
-
-HTML
-
-Google DevTool
+Bootstraps, JavaScripts, HTML, Google DevTool
 
 ## Results:
 At first glance on the page, we see a navigator bar named "UFO Sightings" on the top left corner,  an undeveloped button for users to go to the main page. 
