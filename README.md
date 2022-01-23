@@ -8,14 +8,14 @@ Bootstraps, JavaScripts, HTML, Google DevTool
 
 ## Results:
 At first glance on the page, we see a navigator bar named "UFO Sightings" on the top left corner,  an undeveloped button for users to go to the main page. 
-     ![1](images/1.png)
+     ![1](static/static/images/1.png)
 Second, scroll the mouse down. The primary purpose is shown on the central middle with an attractive galaxy background.
-![middle](images/middle.png)
+![middle](static/static/images/middle.png)
 In the third part, Dana gives us an article about UFO sightings and encourages users to figure out more results on this website. 
-![3](images/3.png)
+![3](static/static/images/3.png)
 The last section is the core of the webpage, which filters the UFO sighting data correctly based on user input and displays an organized table. Users can filter the data based on city, state, country, and shape.
-![filter](images/filter.png) 
-![4](images/4.png)
+![filter](static/static/images/filter.png) 
+![4](static/static/images/4.png)
 
 ## Summary:
 The summary addresses one drawback of this webpage 
